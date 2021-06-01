@@ -1720,7 +1720,7 @@ a {
 /* VOLVERA VER */
 
 .slide_volver_a_ver {
-	background: url(../imagenes/slider1.jpg);
+	background: url(../imagenes/volver_a_ver/slider1.jpg);
 	background-size: auto 540px;
 	background-position: center center;
 	background-repeat: no-repeat;
@@ -2003,7 +2003,7 @@ a {
 
 @media (min-width: 320px) and (max-width: 767px) {
 	.slide_volver_a_ver {
-		background: url(../imagenes/slider1_mobile.jpg);
+		background: url(../imagenes/volver_a_ver/slider1_mobile.jpg);
 		background-size: auto 450px;
 		background-position: center center;
 		margin-left: 60px;
