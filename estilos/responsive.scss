@@ -1,0 +1,34 @@
+@media screen and (max-width: 800px){
+	.card_canal h2{
+		font-size: 100px;
+		text-align: center
+	}
+	.card_canal li, .iconos_canal {
+		display: none
+	}
+	h2{
+		font-size:50px;
+		text-align: center
+	}
+	.chat{
+		display: none
+	}
+	.info{
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+		}
+	.descripción {
+		h5{
+			font-size: 40px
+		}
+		p{
+			font-size: 30px
+		}
+	}
+	.botones {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		justify-content: center
+	}
+}

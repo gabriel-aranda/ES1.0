@@ -1,0 +1,29 @@
+@charset "UTF-8";
+@media screen and (max-width: 767px) {
+  .card_canal h1 {
+    font-size: 100px;
+    text-align: center; }
+  .card_canal li, .iconos_canal {
+    display: none; }
+  h1 {
+    font-size: 50px;
+    text-align: center; }
+  .chat {
+    width: 100%;
+  }
+  .input-group {
+    height: 400px;
+  }
+  .info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center; }
+  .descripción h2 {
+    font-size: 40px; }
+  .descripción p {
+    font-size: 30px; }
+  .botones {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: center; } }
