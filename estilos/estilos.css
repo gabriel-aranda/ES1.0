@@ -1721,7 +1721,7 @@ a {
 
 .slide_volver_a_ver {
 	background: url(../imagenes/slider1.jpg);
-	background-size: auto 650px;
+	background-size: auto 540px;
 	background-position: center center;
 	background-repeat: no-repeat;
 	padding-top: 75px;
@@ -1739,7 +1739,6 @@ a {
 	font-size: 30px;
 	font-weight: 700;
 	color: #d4d4d4;
-
 }
 
 #categorias_grid {
@@ -1755,8 +1754,6 @@ a {
 	margin: 10px;
 	padding: 10px;
 }
-
-
 .datos {
 	display: block;
 	width: 400px;
@@ -2038,7 +2035,7 @@ a {
 		height: auto;
 		display: flex;
 		flex-direction: column;
-		}
+	}
 	.card_eventos img {
 		width: 100px;
 		height: 100px;
@@ -2065,6 +2062,7 @@ a {
 		flex-wrap: wrap;
 		text-align: center;
 		justify-content: center;
+
 	}
 
 	.card_eventos p {
